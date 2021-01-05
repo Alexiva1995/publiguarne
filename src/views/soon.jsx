@@ -172,8 +172,8 @@ export default function SoonPage(){
                     <img alt="Podcast" src={MessageImage} />
                 </Grid>
                 <Grid item className="right">
-                    <a href="/#tel:+573175751142"> <i className="fas fa-phone-alt" /> +573175751142 </a>
-                    <a href="/#tel:+573103758197"> <i className="fas fa-phone-alt" /> +573103758197 </a>
+                    <a href="/#tel:+573175751142"> <i className="fas fa-phone-alt" /> +57 304 1271115 </a>
+                    <a href="/#tel:+573103758197"> <i className="fas fa-phone-alt" /> +57 310 3758197 </a>
                 </Grid>
             </Grid>
 
